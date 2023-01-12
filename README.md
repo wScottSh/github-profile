@@ -2,7 +2,11 @@
 
 ## Activity
 
-### January 11, 2023
+### Jan 12, 2023
+
+- Write a blog post: [Making Your Code Speak for Itself: The Power of Self-Documenting Code](https://medium.com/lightning-strikes-a-developers-journey/making-your-code-speak-for-itself-the-power-of-self-documenting-code-2d74b7a8bd60)
+
+### Jan 11, 2023
 
 - Wrote a blog post: [Breaking Down std::string::npos: Understanding the Not-Found Constant](https://medium.com/lightning-strikes-a-developers-journey/breaking-down-std-string-npos-understanding-the-not-found-constant-a785b58313d7)
 - Wrote a blog post: [Breaking Down the Problem: The Importance of Understanding the Problem Before Coding](https://medium.com/lightning-strikes-a-developers-journey/breaking-down-the-problem-the-importance-of-understanding-the-problem-before-coding-f95d1c918b8b)
