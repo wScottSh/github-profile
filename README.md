@@ -2,6 +2,10 @@
 
 ## Activity
 
+### Jan 13, 2023
+
+- Wrote a blog post: [Bitwise Operations 101: How to Optimize Your Code in Bitcoin and Cryptography](https://medium.com/lightning-strikes-a-developers-journey/bitwise-operations-101-how-to-optimize-your-code-in-bitcoin-and-cryptography-411614ffebb6)
+
 ### Jan 12, 2023
 
 - Write a blog post: [Making Your Code Speak for Itself: The Power of Self-Documenting Code](https://medium.com/lightning-strikes-a-developers-journey/making-your-code-speak-for-itself-the-power-of-self-documenting-code-2d74b7a8bd60)
