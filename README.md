@@ -2,6 +2,13 @@
 
 ## Activity
 
+### Jan 14, 2023
+
+- Solved kyu 5 kata: [Can you get the loop?](https://www.codewars.com/kata/52a89c2ea8ddc5547a000863)
+- Solved kyu 7 kata: [Sum of the first nth term of Series](https://www.codewars.com/kata/555eded1ad94b00403000071)
+- Solved kyu 6 kata: [Bouncing Balls](https://www.codewars.com/kata/5544c7a5cb454edb3c000047)
+- Solved kyu 6 kata: [Take a Ten Minutes Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)
+
 ### Jan 13, 2023
 
 - Wrote a blog post: [Bitwise Operations 101: How to Optimize Your Code in Bitcoin and Cryptography](https://medium.com/lightning-strikes-a-developers-journey/bitwise-operations-101-how-to-optimize-your-code-in-bitcoin-and-cryptography-411614ffebb6)
