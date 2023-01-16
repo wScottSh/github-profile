@@ -2,6 +2,11 @@
 
 ## Activity
 
+### Jan 15, 2023
+
+- Worked on 6 kyu kata: [Delete occurrences of an element if it occurs more than n times](https://www.codewars.com/kata/554ca54ffa7d91b236000023/train/cpp)
+- Wrote a blog post: [Why Zelda: A Link to the Past Endures as a Pillar of Adventure Exploration Games](https://medium.com/austin-school-of-game-design/why-the-legend-of-zelda-a-link-to-the-past-endures-as-a-pillar-of-adventure-exploration-games-c2bdb70c3287)
+
 ### Jan 14, 2023
 
 - Solved kyu 5 kata: [Can you get the loop?](https://www.codewars.com/kata/52a89c2ea8ddc5547a000863)
