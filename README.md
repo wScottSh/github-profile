@@ -2,6 +2,10 @@
 
 ## Activity
 
+### Jan 18, 2023
+
+- Published a blog post: [Super Metroid: A Masterclass in Curated Open-World Design](https://medium.com/austin-school-of-game-design/super-metroid-a-masterclass-in-curated-open-world-design-5988f4e68098)
+
 ### Jan 15, 2023
 
 - Worked on 6 kyu kata: [Delete occurrences of an element if it occurs more than n times](https://www.codewars.com/kata/554ca54ffa7d91b236000023/train/cpp)
