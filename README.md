@@ -2,6 +2,11 @@
 
 ## Activity
 
+### Jan 20, 2023
+
+- Wrote a blog post: [Project Managing a Writer: A Look into Optimizing a Writer’s Workflow](https://medium.com/lightning-strikes-a-developers-journey/project-managing-a-writer-a-look-into-optimizing-a-writers-workflow-ffd0346ff9a0)
+- Wrote a blog post: [From Idea to Bookshelf: A Shallow Dive into Scheduling Algorithms](https://medium.com/lightning-strikes-a-developers-journey/from-idea-to-bookshelf-a-shallow-dive-into-scheduling-algorithms-d3bd75f66289)
+
 ### Jan 18, 2023
 
 - Published a blog post: [Super Metroid: A Masterclass in Curated Open-World Design](https://medium.com/austin-school-of-game-design/super-metroid-a-masterclass-in-curated-open-world-design-5988f4e68098)
